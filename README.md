@@ -1,2 +1,2 @@
 # hello-world
-Just another one in a row...
+Getting into github step by step... :)
